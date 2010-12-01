@@ -2,6 +2,7 @@
 <title>Kristján Pétursson's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Master Blacksmith (Level -inf)</title><description>Created a branch using git checkout -b.</description></item>
